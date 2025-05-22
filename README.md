@@ -181,3 +181,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact & Support
 
 For questions, support, or partnership inquiries, please reach out through our official channels or create an issue in the repository.
+![image](https://github.com/user-attachments/assets/907f8fe4-b758-45f8-b07f-d83856090cfa)
